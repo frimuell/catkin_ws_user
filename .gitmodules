@@ -1,0 +1,3 @@
+[submodule "tasks_wise1819/assignment_3/catkin_ws_user"]
+	path = tasks_wise1819/assignment_3/catkin_ws_user
+	url = https://github.com/AutoModelCar/catkin_ws_user.git
